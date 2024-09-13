@@ -1,7 +1,6 @@
 ## Resolução do Desafio de POO
 ```mermaid
 classDiagram
-    classDiagram
     iPhone --|> ReprodutorMusica
     iPhone --|> Navegador
     iPhone --|> AparelhoTelefonico
